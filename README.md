@@ -1,5 +1,4 @@
-QBasic-Code
-=======================================================
+# QBasic-Code
 
 A repo to hold all of my old QBasic programs from when I started programming in highschool. Hopefully 
 someone just starting out, or even some one with some experience finds the code interesting and/or useful 
@@ -11,9 +10,9 @@ to anyone except those that like to learn by reading code or just enjoy playign 
 Best of luck to you all and have fun. This is the first batch of code, I have hundreds more to share and 
 will try and update this as I have time, so others can learn from my practice coding.
 
-=======================================================
-Quick Description 
-=======================================================
+**NOTE:** This code is often rather bad style (even for QBasic), but it is left in the original form here, I haven't go through it or cleaned it up at all. So please understand it is a straight upload of the code was playing with in highschool, and I mostly throw things at the wall until I got the results I wanted with no formal training at the time. 
+
+## Quick Description 
 <b>3DParticles</b> - This is one my favorites, it will load a 3D object from a points file and then render it while spinning. You can use the morph functions to morph the points from one model into another as they load and it was an fun to build and play with. I hope others have fun with it as well.<br><br>
 <b>D2Edit</b> - This was simple Diablo 2 Character Editor. It will most likely not work these days, but it allowed you to set your stash, change class, and reset level/talents etc. It should be useful for anyone that wants to learn more about editing binary data with QBasic.<br><br>
 <b>KeenC</b> - A simple cheat editor built to make changes to Commander Keen save files. Again useful for learning to work with binary/hex data from QBasic.<br><br>
